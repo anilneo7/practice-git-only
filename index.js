@@ -9,3 +9,7 @@ function sayName(){
 function isAbove18(){
   return age >=18;
 }
+
+function newBrachByJoy(){
+  console.log("Func. in joy-branch");
+}
