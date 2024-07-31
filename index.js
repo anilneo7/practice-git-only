@@ -17,3 +17,7 @@ function newBrachByJoy(){
 function anotherFuncByJoy(){
   console.log("Func.2 in joy-branch");
 }
+function secondWayToMerge(){
+  console.log("second way to merge branch ");
+  //second way to merge branch i.e. by pull request
+}
