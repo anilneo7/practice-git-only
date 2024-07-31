@@ -11,5 +11,9 @@ function isAbove18(){
 }
 
 function newBrachByJoy(){
-  console.log("Func. in joy-branch");
+  console.log("Func.1 in joy-branch");
+}
+
+function anotherFuncByJoy(){
+  console.log("Func.2 in joy-branch");
 }
