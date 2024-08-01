@@ -1,5 +1,6 @@
 const age=24;
-const name1='joy';
+const name1='joy new';
+const data="some code added in earlier code in order to practice stashing";
 const dob='01/01/2002';
 
 function sayName(){
