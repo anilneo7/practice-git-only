@@ -21,3 +21,6 @@ function secondWayToMerge(){
   console.log("second way to merge branch ");
   //second way to merge branch i.e. by pull request
 }
+function rebasingInGit(){
+  console.log("Rebasing");
+}
