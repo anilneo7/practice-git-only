@@ -24,3 +24,6 @@ function secondWayToMerge(){
 function rebasingInGit(){
   console.log("Rebasing");
 }
+function rebasingInGit1(){
+  console.log("Rebasing1");
+}
